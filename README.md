@@ -17,7 +17,8 @@ A sleek Chrome extension that **summarizes any webpage** using Google Gemini API
 
 ## Screenshots
 
-![Popup Screenshot](screenshot.png)
+<img width="442" height="776" alt="Image" src="https://github.com/user-attachments/assets/cdf9c6f8-8a5e-4d87-a551-f584c7dc0522" />
+<img width="442" height="377" alt="Image" src="https://github.com/user-attachments/assets/3dcdbb9d-9a37-41c7-a8e4-3702876fe71d" />
 
 ---
 
