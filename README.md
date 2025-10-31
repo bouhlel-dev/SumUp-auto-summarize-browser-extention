@@ -1,7 +1,7 @@
 
 # Auto Summarizer Chrome Extension
 
-A sleek Chrome extension that **summarizes any webpage instantly** using Google Gemini API. Great for articles, Wikipedia pages, PDFs, and research content.
+A sleek Chrome extension that **summarizes any webpage** using Google Gemini API. Great for articles, Wikipedia pages, PDFs, and research content.
 
 ---
 
@@ -27,7 +27,7 @@ A sleek Chrome extension that **summarizes any webpage instantly** using Google 
 2. Open Chrome and go to `chrome://extensions/`.
 3. Enable **Developer mode** (top right).
 4. Click **Load unpacked** and select the extension folder.
-5. Add your **Gemini API key** in the popup (or via storage).
+5. Add your **Gemini API key**
 
 ---
 
@@ -60,7 +60,6 @@ auto-summarizer/
 ## Dependencies
 
 - [Google Gemini API](https://developers.generativeai.google/) for text summarization
-- Chrome (Manifest V3 compatible)
 
 ---
 
