@@ -1,6 +1,4 @@
-Sure! Here’s a **professional, clean README.md** for your Chrome extension “Auto Summarizer”:
 
-```markdown
 # Auto Summarizer Chrome Extension
 
 A sleek Chrome extension that **summarizes any webpage instantly** using Google Gemini API. Great for articles, Wikipedia pages, PDFs, and research content.
@@ -46,7 +44,6 @@ A sleek Chrome extension that **summarizes any webpage instantly** using Google 
 ## File Structure
 
 ```
-
 auto-summarizer/
 ├─ popup.html         # Popup interface
 ├─ popup.js           # Handles UI logic and API calls
